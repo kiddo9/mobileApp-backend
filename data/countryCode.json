@@ -1,0 +1,123 @@
+[
+    {
+      "code": "US",
+      "name": "United States",
+      "flag": "🇺🇸",
+      "dialing_code": "+1"
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "dialing_code": "+1"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "dialing_code": "+44"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "dialing_code": "+49"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "flag": "🇫🇷",
+      "dialing_code": "+33"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "flag": "🇮🇳",
+      "dialing_code": "+91"
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "dialing_code": "+81"
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "flag": "🇨🇳",
+      "dialing_code": "+86"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "dialing_code": "+55"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "flag": "🇿🇦",
+      "dialing_code": "+27"
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "dialing_code": "+61"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "flag": "🇮🇹",
+      "dialing_code": "+39"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "dialing_code": "+34"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "flag": "🇲🇽",
+      "dialing_code": "+52"
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "flag": "🇷🇺",
+      "dialing_code": "+7"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "flag": "🇰🇷",
+      "dialing_code": "+82"
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "flag": "🇳🇬",
+      "dialing_code": "+234"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "flag": "🇪🇬",
+      "dialing_code": "+20"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "dialing_code": "+966"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "dialing_code": "+54"
+    }
+  ]
+  

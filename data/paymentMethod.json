@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "name" : "GOPAY",
+        "number": 652824202627282,
+        "image" : "https://media3.giphy.com/avatars/gopayindonesia/AAmaxmCU1RUT.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Paypal",
+        "number": 5827920972792982,
+        "image" : "https://pngimg.com/d/paypal_PNG7.png"
+    },
+    {
+        "id" : 3,
+        "name" : "credit card",
+        "number": null,
+        "image" : null
+    },
+    {
+        "id" : 4,
+        "name" : "Mobile Banking BCA",
+        "number": 98998767887788898,
+        "image" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/47/be/cf47be34-fdb1-e2ae-33aa-255f3699bbe0/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/1200x600wa.png"
+    },
+    {
+        "id" : 5,
+        "name" : "DANA",
+        "number": 34689086556789000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83HALaey9zLvoOThcIZV4fPlJP-uTfY8qyw&s"
+    }
+    
+]

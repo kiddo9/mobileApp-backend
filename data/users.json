@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ds",
+    "lastName": "KI",
+    "email": "py@gmail.com",
+    "password": "$2b$10$ZjDQILhI9B0E6tdpjgLUF.b39X8VpbyqnnL3JowT7p0TNivdZPCDu"
+  },
+  {
+    "id": 2,
+    "firstName": "Dy",
+    "lastName": "KI",
+    "email": "pyt@gmail.com",
+    "password": "$2b$10$A1CCMzHdr1ijbhwozcNsmOf7hcaKdMetVLsUnB3WqpLybPrMUcoTa"
+  },
+  {
+    "id": 3,
+    "firstName": "Dd",
+    "lastName": "Dd",
+    "email": "W@gmail.com",
+    "password": "$2b$10$SCRn2.7t0Xv8TVGOjpQo4.uB1UCwpFawAZGVyRREDkaZY5mplMtkG"
+  },
+  {
+    "id": 4,
+    "firstName": "Dd",
+    "lastName": "Dd",
+    "email": "Wy@gmail.com",
+    "password": "$2b$10$2ROxcSFUi5Gf3tPwJkP4xO3I3otZUjoWfsQpYeqpM0u1WHQ/m6kfy"
+  }
+]
